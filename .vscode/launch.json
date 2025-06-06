@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/parkseyeon/Desktop/2A/ECE250 - Algorithms & Data structures/Lab2",
+      "program": "/Users/parkseyeon/Desktop/2A/ECE250 - Algorithms & Data structures/Lab2/build/Debug/outDebug"
+    }
+  ]
+}
